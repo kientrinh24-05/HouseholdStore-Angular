@@ -1,0 +1,1 @@
+# HouseholdStore-Angular
